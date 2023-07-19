@@ -7,6 +7,17 @@ I am passionate about front-end development as technology innovation, and I have
 I look forward to being a part of a growing company as a Full-Stack developer where I can utilize exceptional programming and interpersonal skills acquired to contribute to your company's success.
 
 ✅ Technologies:
-HTML, CSS, SASS, JavaScript, Typescript, C#, Python, React, Angular, Vue, React Native, Node.js, Express.js, Nest.js, Ruby, Django, Agile, AWS, Docker, Jest, Mocha
+### FrontEnd:
+ * HTML, CSS, SASS,
+ * React, Angular, Vue
+ * Material UI, Bootstrap, Tailwind CSS
+### BackEnd:
+ * Node.js, Express.js, Nest.js
+ * Django
+ * Ruby
+### Mobile:
+ * React Native
+### Languages:
+ JavaScript, Typescript, C#, Python
 
 It is my goal to understand the clients' needs clearly and to deliver a high-quality project on time at an optimal cost.
