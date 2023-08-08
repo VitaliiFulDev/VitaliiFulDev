@@ -8,23 +8,23 @@ Whether you need a complete web application from scratch, an update to existing 
 Looking forward to being of service and driving your project to success!
 
 ✅ Technologies:
-###Front End
-• React, Next
-• HTML5, CSS, SCSS, Bootstrap, Tailwind CSS, MUI, Styled CSS
+### Front End
+* React, Next
+* HTML5, CSS, SCSS, Bootstrap, Tailwind CSS, MUI, Styled CSS
 
-###Mobile
-• React Native
+### Mobile
+* React Native
 
-###Back End
-• Node.js, Express.js, Firebase, Supabase
-• MongoDB, MySQL, PostgreSQL, Mongoose, Sequelize, Prisma
-• Stripe, PayPal Integration
-• Rest API, GraphQL
-• Strapi, Sanity
-• AWS, Vercel, Heroku, Plesk
+### Back End
+* Node.js, Express.js, Firebase, Supabase
+* MongoDB, MySQL, PostgreSQL, Mongoose, Sequelize, Prisma
+* Stripe, PayPal Integration
+* Rest API, GraphQL
+* Strapi, Sanity
+* AWS, Vercel, Heroku, Plesk
 
 ###Language
-• JavaScript, TypeScript
-• Python
+* JavaScript, TypeScript
+* Python
 
 It is my goal to understand the clients' needs clearly and to deliver a high-quality project on time at an optimal cost.
