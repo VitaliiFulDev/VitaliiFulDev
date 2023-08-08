@@ -23,7 +23,7 @@ Looking forward to being of service and driving your project to success!
 * Strapi, Sanity
 * AWS, Vercel, Heroku, Plesk
 
-###Language
+### Language
 * JavaScript, TypeScript
 * Python
 
