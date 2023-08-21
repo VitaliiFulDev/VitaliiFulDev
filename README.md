@@ -9,14 +9,14 @@ Looking forward to being of service and driving your project to success!
 
 ✅ Technologies:
 ### Front End
-* React, Next
+* React, Next, Angular
 * HTML5, CSS, SCSS, Bootstrap, Tailwind CSS, MUI, Styled CSS
 
 ### Mobile
 * React Native
 
 ### Back End
-* Node.js, Express.js, Firebase, Supabase
+* Node.js, Express.js, Nest.js, Firebase, Supabase
 * MongoDB, MySQL, PostgreSQL, Mongoose, Sequelize, Prisma
 * Stripe, PayPal Integration
 * Rest API, GraphQL
