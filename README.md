@@ -9,7 +9,7 @@ Looking forward to being of service and driving your project to success!
 
 ✅ Technologies:
 ### Front End
-* React, Next, Angular
+* React, Next.js, Angular
 * HTML5, CSS, SCSS, Bootstrap, Tailwind CSS, MUI, Styled CSS
 
 ### Mobile
