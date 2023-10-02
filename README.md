@@ -21,7 +21,7 @@ Looking forward to being of service and driving your project to success!
 * Stripe, PayPal Integration
 * Rest API, GraphQL
 * Strapi, Sanity
-* AWS, Vercel, Heroku, Plesk
+* AWS, Vercel, Heroku, Plesk, Netlify
 
 ### Language
 * JavaScript, TypeScript
