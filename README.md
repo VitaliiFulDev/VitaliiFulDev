@@ -18,7 +18,7 @@ Looking forward to being of service and driving your project to success!
 ### Mobile
 * React Native
 * React Native Skia
-* 
+* Java, xCode
 ### Back End
 * Node.js, Express.js, Nest.js, Firebase, Supabase
 * MongoDB, MySQL, PostgreSQL, Mongoose, Sequelize, Prisma
