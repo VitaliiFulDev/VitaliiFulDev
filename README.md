@@ -10,17 +10,17 @@ Looking forward to being of service and driving your project to success!
 ✅ Technologies:
 My Tech Stack:
 
-###✨ Frontend:
+### ✨ Frontend:
 * React.js (Hooks, Context API), Redux Saga/Thunk
 * Next.js (App Router, Page Router, SSR, SSG)
 * Bootstrap, Tailwind CSS, MUI, Styled Components
 * Data Visualization: D3.js
 
-###📱 Cross-platform mobile app:
+### 📱 Cross-platform mobile app:
 * React Native - Android and iOS
 * Data Visualization: React Native Skia
 
-###⚙️ Backend:
+### ⚙️ Backend:
 * Node.js, Express.js, Nest.js
 * Headless CMS: Strapi
 * BaaS: Firebase, Supabase
@@ -28,14 +28,14 @@ My Tech Stack:
 * Redis for Cache
 * ChatGPT | LangChain
 
-###₿ Blockchain:
+### ₿ Blockchain:
 * Web3.js, Ethers.js
 * Truffle
 * Solidity
 
-###✅ Programming Languages: JavaScript | TypeScript
+### ✅ Programming Languages: JavaScript | TypeScript
 
-###🛠️ Other tools:
+### 🛠️ Other tools:
 * Webpack, Babel, ESLint
 * Payment SDK: Stripe, PayPal
 * SMTP: SendGrid, PostMark
