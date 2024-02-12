@@ -8,28 +8,39 @@ Whether you need a complete web application from scratch, an update to existing 
 Looking forward to being of service and driving your project to success!
 
 ✅ Technologies:
-### Front End
-* React.js, Next.js (Page rouer and App router)
-* HTML5, CSS3, SCSS
-* Tailwind CSS, Bootstrap, MUI, Styled Components
-* Redux Saga/Thunk
-* D3.js
+My Tech Stack:
 
-### Mobile
-* React Native
-* React Native Skia
-* Java, xCode
-### Back End
-* Node.js, Express.js, Nest.j
-* Firebase, Supabase
-* MongoDB, MySQL, PostgreSQL, Mongoose, Sequelize, Prisma
-* Stripe, PayPal Integration
-* Rest API, GraphQL
-* Strapi
-* AWS, Vercel, Heroku, Plesk, Netlify
+###✨ Frontend:
+* React.js (Hooks, Context API), Redux Saga/Thunk
+* Next.js (App Router, Page Router, SSR, SSG)
+* Bootstrap, Tailwind CSS, MUI, Styled Components
+* Data Visualization: D3.js
 
-### Language
-* JavaScript, TypeScript
-* Python
+###📱 Cross-platform mobile app:
+* React Native - Android and iOS
+* Data Visualization: React Native Skia
+
+###⚙️ Backend:
+* Node.js, Express.js, Nest.js
+* Headless CMS: Strapi
+* BaaS: Firebase, Supabase
+* MongoDB, MySQL, PostgreSQL, Mongoose, Sequelize, Prisma, TypeORM
+* Redis for Cache
+* ChatGPT | LangChain
+
+###₿ Blockchain:
+* Web3.js, Ethers.js
+* Truffle
+* Solidity
+
+###✅ Programming Languages: JavaScript | TypeScript
+
+###🛠️ Other tools:
+* Webpack, Babel, ESLint
+* Payment SDK: Stripe, PayPal
+* SMTP: SendGrid, PostMark
+* RESTful API, Apollo GraphQL, SocketIO, Websocket
+* Docker
+* Hosting: AWS, Vercel, Heroku, Plesk
 
 It is my goal to understand the clients' needs clearly and to deliver a high-quality project on time at an optimal cost.
