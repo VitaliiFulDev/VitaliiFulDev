@@ -7,8 +7,7 @@ My primary aim is to not just execute projects with high-quality results but als
 Whether you need a complete web application from scratch, an update to existing software, or some bugs fixed, I am confident that my expertise and diligence will deliver solutions that align perfectly with project objectives.
 Looking forward to being of service and driving your project to success!
 
-✅ Technologies:
-My Tech Stack:
+✅ My Tech Stack:
 
 ### ✨ Frontend:
 * React.js (Hooks, Context API), Redux Saga/Thunk
