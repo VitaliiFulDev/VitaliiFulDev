@@ -20,11 +20,12 @@ Looking forward to being of service and driving your project to success!
 * React Native Skia
 * Java, xCode
 ### Back End
-* Node.js, Express.js, Nest.js, Firebase, Supabase
+* Node.js, Express.js, Nest.j
+* Firebase, Supabase
 * MongoDB, MySQL, PostgreSQL, Mongoose, Sequelize, Prisma
 * Stripe, PayPal Integration
 * Rest API, GraphQL
-* Strapi, Sanity
+* Strapi
 * AWS, Vercel, Heroku, Plesk, Netlify
 
 ### Language
